@@ -1,0 +1,3 @@
+# BatteryCar
+This is a battery-powered car that I built with the specific goal of being able to travel X distance within X seconds. One of the unique features of this car is its ability to follow a curved path, allowing it to accurately reach a point that isn’t directly in line with its starting trajectory. Just a heads-up: this project is NOT related to Science Olympiad (Scioly) in any way. If you're here looking for an Electric Vehicle design for Scioly, this car is NOT the right fit. It was created for a COMPLETELY different purpose, with different requirements and goals in mind. Still, I appreciate you taking the time to check it out!
+
